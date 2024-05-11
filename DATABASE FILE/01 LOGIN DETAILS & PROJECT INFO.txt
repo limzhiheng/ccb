@@ -1,0 +1,12 @@
+
+
+**Database Name: ecom_store**
+
+
+
+**Admin Panel: /admin_area **
+
+**Admin Login Details**
+
+Username: admin@gmail.com
+Password: @Abc12345
