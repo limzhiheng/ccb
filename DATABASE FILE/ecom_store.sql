@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 11, 2024 at 12:05 PM
+-- Generation Time: May 12, 2024 at 09:42 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -344,10 +344,10 @@ INSERT INTO `products` (`product_id`, `p_cat_id`, `cat_id`, `manufacturer_id`, `
 (16, 10, 4, 10, '2024-03-16 12:36:48', 'Bright Summer', 'Bright-Summer', '62462176.png', '62462184.png', '62462185.png', 179, 159, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Bouquet', 'Sale', 'product'),
 (17, 10, 4, 9, '2024-03-16 12:37:58', 'Your Highness White Rose Bouquet', 'Your-Highness-White-Rose-Bouquet', '68706474.png', '68706475.png', '68706477.png', 78, 50, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Bouquet', 'Sale', 'product'),
 (18, 10, 4, 10, '2024-03-16 12:38:38', 'Summer Sunflower Graduation Bouquet', 'Summer-Sunflower-Graduation-Bouquet', 'bloomthis-bouquet-summer-sunflower-graduation-bouquet-1080x1080-01.png', 'bloomthis-bouquet-summer-sunflower-graduation-bouquet-1080x1080-03.png', 'bloomthis-bouquet-summer-sunflower-graduation-bouquet-1080x1080-04.png', 88, 45, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Bouquet', 'Sale', 'product'),
-(19, 10, 4, 9, '2024-03-16 12:39:12', 'Simple & Happy Graduation Bouquet', 'Simple-&-Happy-Graduation-Bouquet', 'shopping.png', 'shopping1.png', 'shopping3.png', 99, 80, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Bouquet', 'Sale', 'product'),
+(19, 10, 4, 9, '2024-05-12 07:41:00', 'Simple & Happy Graduation Bouquet', 'Simple-Happy-Graduation-Bouquet', 'shopping.png', 'shopping1.png', 'shopping3.png', 99, 80, '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', 'Bouquet', 'Sale', 'product'),
 (20, 10, 4, 9, '2024-03-16 12:40:09', 'Happy Sunshine', 'Happy-Sunshine', '41250089.png', '41250090.png', '41250091.png', 70, 45, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Bouquet', 'Sale', 'product'),
 (21, 11, 4, 10, '2024-03-16 12:40:57', 'Congrats Graduation Helium Balloon', 'Congrats-Graduation-Helium-Balloon', 'bloomthis-balloon-congratulations-helium-balloon-bundle-1080x1080-01.png', 'bloomthis-balloon-congratulations-helium-balloon-bundle-1080x1080-02.png', 'bloomthis-balloon-congratulations-helium-balloon-bundle-1080x1080-03.png', 180, 140, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Balloon', 'Sale', 'product'),
-(22, 10, 4, 9, '2024-05-11 07:37:35', 'Little Bee Bouquet (Fresh Flower)', 'Little-Bee-Bouquet-Fresh-Flower', '1.jpg', '2.jpg', '3.jpg', 88, 78, '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', 'Bouquet', 'Sale', 'product'),
+(22, 10, 4, 9, '2024-05-12 07:41:17', 'Little Bee Bouquet (Fresh Flower)', 'Little-Bee-Bouquet-Fresh-Flower', '1.jpg', '2.jpg', '3.jpg', 88, 78, '\r\n\r\n\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n\r\n\r\n', 'Bouquet', 'Sale', 'product'),
 (23, 11, 4, 10, '2024-05-11 07:22:24', 'Aquamarine Bubble & Star Balloon Bouquet', 'Aquamarine-Bubble-Star-Balloon-Bouquet', '1.png', '2.png', '3.png', 99, 69, '\r\n\r\n', '\r\n\r\n', '\r\n\r\n', 'Balloon', 'Sale', 'product'),
 (24, 11, 4, 10, '2024-05-11 07:39:13', 'Graduation Foil Balloons', 'Graduation-Foil-Balloons', 'w1w.jpg', 'w2.jpg', 'w3.jpg', 125, 100, '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', 'Balloon', 'Sale', 'product'),
 (25, 11, 4, 10, '2024-05-11 07:39:26', 'Graduation theme Balloon', 'Graduation-theme-Balloon', 'q1.jpg', 'q2.jpg', 'q3.jpg', 200, 105, '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', '\r\n\r\n\r\n\r\n', 'Balloon', 'Sale', 'product'),
